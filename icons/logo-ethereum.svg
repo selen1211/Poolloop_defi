@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 26.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 697.08917 712.20192"
+   xml:space="preserve"
+   sodipodi:docname="logo-ethereum.svg"
+   width="697.08917"
+   height="712.2019"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs5" /><sodipodi:namedview
+   id="namedview5"
+   pagecolor="#505050"
+   bordercolor="#eeeeee"
+   borderopacity="1"
+   inkscape:showpageshadow="0"
+   inkscape:pageopacity="0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:zoom="0.29480154"
+   inkscape:cx="566.48278"
+   inkscape:cy="339.21125"
+   inkscape:window-width="1280"
+   inkscape:window-height="601"
+   inkscape:window-x="0"
+   inkscape:window-y="25"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="Layer_1" />
+<style
+   type="text/css"
+   id="style1">
+	.st0{fill:#8A92B2;}
+	.st1{fill:#62688F;}
+	.st2{fill:#454A75;}
+</style>
+<ellipse
+   style="fill:#ffffff;stroke:#454a75;stroke-width:5.9;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+   id="path6"
+   cx="348.54459"
+   cy="356.10095"
+   rx="345.59457"
+   ry="353.15094" /><path
+   class="st0"
+   d="M 348.49457,281.70093 V 84.500934 l -163.7,271.599996 z"
+   id="path1" />
+<path
+   class="st1"
+   d="m 348.49457,452.90093 v -171.2 l -163.7,74.4 z m 0,-171.2 163.7,74.4 -163.7,-271.599996 z"
+   id="path2" />
+<path
+   class="st2"
+   d="m 348.49457,281.70093 v 171.2 l 163.7,-96.8 z"
+   id="path3" />
+<path
+   class="st0"
+   d="m 348.49457,483.90093 -163.7,-96.7 163.7,230.7 z"
+   id="path4" />
+<path
+   class="st1"
+   d="m 512.29457,387.20093 -163.8,96.7 v 134 z"
+   id="path5" />
+</svg>

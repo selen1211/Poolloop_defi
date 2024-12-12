@@ -1,0 +1,23 @@
+<svg width="169" height="178" viewBox="0 0 169 178" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <filter x="-4%" y="-12.6%" width="107.9%" height="128.7%" filterUnits="objectBoundingBox" id="jfeqahknja">
+            <feMorphology radius=".5" operator="dilate" in="SourceAlpha" result="shadowSpreadOuter1"/>
+            <feOffset dy="5" in="shadowSpreadOuter1" result="shadowOffsetOuter1"/>
+            <feMorphology radius="1" in="SourceAlpha" result="shadowInner"/>
+            <feOffset dy="5" in="shadowInner" result="shadowInner"/>
+            <feComposite in="shadowOffsetOuter1" in2="shadowInner" operator="out" result="shadowOffsetOuter1"/>
+            <feGaussianBlur stdDeviation="13" in="shadowOffsetOuter1" result="shadowBlurOuter1"/>
+            <feColorMatrix values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.05 0" in="shadowBlurOuter1" result="shadowMatrixOuter1"/>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"/>
+                <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+        </filter>
+        <filter x="-28.2%" y="-25.3%" width="156.5%" height="150.5%" filterUnits="objectBoundingBox" id="l8sf82higb">
+            <feGaussianBlur stdDeviation="7" in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g filter="url(#jfeqahknja)" transform="translate(-610 -61)" fill="#4EB700" fill-rule="evenodd" opacity=".2">
+        <path d="M726.676 137.24c21.774 0-39.193 59.921-39.193 47.081 0-19.973 2.904-32.814 8.71-38.52 5.806-5.707 15.967-8.56 30.483-8.56zM661.7 151.885c-21.774 0 39.193-59.92 39.193-47.08 0 19.973-2.904 32.814-8.71 38.52-5.806 5.707-15.967 8.56-30.483 8.56z" filter="url(#l8sf82higb)"/>
+    </g>
+</svg>
