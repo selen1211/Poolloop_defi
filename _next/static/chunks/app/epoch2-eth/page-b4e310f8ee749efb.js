@@ -3219,7 +3219,7 @@
                     }),
                   }),
                   (0, r.jsx)("a", {
-                    href: "https://app.loopfi.xyz/#/earn",
+                    href: "https://app-loop.vercel.app/#/dashboard",
                     children: (0, r.jsx)("button", {
                       type: "button",
                       "aria-label": "A button that on click provides liquidity",

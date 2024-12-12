@@ -18,7 +18,7 @@
           PAGES: {
             DOCS: "https://maxims-organization-22.gitbook.io/loof_defi",
             BLOG: "https://mirror.xyz/loopfixyz.eth",
-            ABOUT: "https://loopfi.xyz",
+            ABOUT: "https://loop-defi.vercel.app/",
             CONTACT: "/contact",
             TERMS: "/terms",
             PRIVACY: "/privacy-policy",
